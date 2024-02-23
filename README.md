@@ -25,5 +25,5 @@ To be able to follow the course you need to know basic image analysis concepts a
 * performing measurements
 
 ## Material
-* Presentation: [Google Slides]([https://docs.google.com/presentation/d/15TTMBoAyVDofQCap4degs4FnkF1JE8qiS_6ccKRUGPk/edit?usp=sharing](https://docs.google.com/presentation/d/15TTMBoAyVDofQCap4degs4FnkF1JE8qiS_6ccKRUGPk/edit?usp=sharing))
+* Presentation: [Google Slides](https://docs.google.com/presentation/d/15TTMBoAyVDofQCap4degs4FnkF1JE8qiS_6ccKRUGPk/edit?usp=sharing)
 * Youtube video: [NEUBIAS Academy](https://www.youtube.com/watch?v=o8tfkdcd3DA)
