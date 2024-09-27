@@ -1,6 +1,6 @@
 # ImageJMacro_Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language.
-Material was prepared by [Anna Klemm](https://www.it.uu.se/katalog/annkl878), shortened and adjusted to the target audience and presented by Elnaz Fazeli for the course Advanced Microscopy, organized by Åbo Akademi University, Turku, Finland.
+Material was prepared by [Anna Klemm](https://www.it.uu.se/katalog/annkl878), shortened and adjusted to the target audience and presented by Elnaz Fazeli for the Image analysis workshop, organized by Åbo Akademi University, Turku, Finland.
 
 ## Audience and format
 Master's degree students in Biomedical Imaging and PhD students taking the course
